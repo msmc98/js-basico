@@ -1,0 +1,3 @@
+npm i -g serve
+
+serve -l 3000 (por ejemplo, el 3000 es el puerto que va a escuchar)
